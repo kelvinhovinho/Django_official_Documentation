@@ -1,0 +1,10 @@
+li a{
+    color: white;
+    text-decoration: none;
+}
+
+body{
+    background-image: url("image/background-image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
